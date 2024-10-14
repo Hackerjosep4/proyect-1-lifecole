@@ -36,10 +36,10 @@ importers:
         specifier: 8.4.38
         version: 8.4.38
       react:
-        specifier: 18.2.0
+        specifier: ^18.2.0
         version: 18.2.0
       react-dom:
-        specifier: 18.2.0
+        specifier: ^18.2.0
         version: 18.2.0(react@18.2.0)
       tailwindcss:
         specifier: 3.4.4
